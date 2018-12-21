@@ -1,0 +1,15 @@
+{
+  "name": "5-js-mocha",
+  "version": "1.0.0",
+  "description": "JS Unit Testing",
+  "main": "0-jstest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Naresh K",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
